@@ -59,7 +59,7 @@
     "sequelize": "^6.13.0",
     "serve-favicon": "^2.5.0",
     "ts-node-dev": "^1.1.8",
-    "web3": "^1.7.1",
+    "web3": "^4.16.0",
     "winston": "^3.3.3"
   },
   "devDependencies": {
