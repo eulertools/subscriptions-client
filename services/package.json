@@ -39,7 +39,7 @@
   },
   "types": "lib/",
   "dependencies": {
-    "@aws-sdk/client-secrets-manager": "^3.52.0",
+    "@aws-sdk/client-secrets-manager": "^3.1166.0",
     "@aws-sdk/credential-provider-node": "^3.52.0",
     "@aws-sdk/node-http-handler": "^3.52.0",
     "@feathersjs/configuration": "^4.5.11",
